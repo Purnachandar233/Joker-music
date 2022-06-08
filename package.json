@@ -1,5 +1,5 @@
 {
-  "name": "op_music",
+  "name": "JOKER_MUSIC",
   "version": "7.3.4",
   "description": "OP Music Bot",
   "main": "index.js",
@@ -39,13 +39,13 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SHIVAM0001-FLEX/op-bot.git"
+    "url": "git+https://github.com/Purnachandar233/Joker-music.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/SHIVAM0001-FLEX/op-bot/issues"
+    "url": "https://github.com/Purnachandar233/Joker-music/issues"
   },
-  "homepage": "https://github.com/SHIVAM0001-FLEX/op-bot#readme",
+  "homepage": "https://github.com/Purnachandar233/Joker-music",
   "devDependencies": {
     "node": "^16.10.0"
   }
